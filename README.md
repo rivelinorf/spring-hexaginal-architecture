@@ -1,2 +1,2 @@
-# spring-hexaginal-architecture
+# spring-hexagonal-architecture
 Scaffold hexagonal architecture
